@@ -1,4 +1,5 @@
-# Linked-List-in-Python---Introduction-to-Data-Structure
+# doubly_linked_List_in_Python
+
 Estudo de Estrutura de dados em python.
 
 Eu vi um video do canal freeCodeCamp de introdução em algoritimos e estrutura de dados.

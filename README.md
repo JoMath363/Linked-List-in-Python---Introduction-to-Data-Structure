@@ -1,4 +1,4 @@
-# doubly_linked_List_in_Python
+# doubly_linked_list_in_Python
 
 Estudo de Estrutura de dados em python.
 
